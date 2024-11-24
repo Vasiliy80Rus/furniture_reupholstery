@@ -1,1 +1,2 @@
 Django==5.1.3
+environs==11.2.1
